@@ -892,7 +892,7 @@ return; // Add this to exit the handler
         respond("my name is friday iam an assistant created by mister hemanthravi. iam comes under k e h b m groups. i am integrated to open page.my name is friday. open page is also known as open page friday. because of me.");
         return; // Add this to exit the handler
 
-    } else if (transcript.includes('lets go friday') || transcript.includes('friday lets go') || transcript.includes('friday let s go')) {
+    } else if (transcript.includes('lets go friday') || transcript.includes('friday lets go') || transcript.includes('friday let s go') || transcript.includes('friday let go')) {
         respond("ok sir");
         return; 
 
